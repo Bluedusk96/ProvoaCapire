@@ -4,7 +4,7 @@
         <meta charset="UTF-8" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        <title>Coffee and Pizza</title>
+        <title>Caffè e pizza</title>
 
         <!-- Google fonts -->
         <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
@@ -63,9 +63,9 @@
                             <ul class="nav navbar-nav navbar-right scroll">
                                 <li class="active"><a href="#home">Home</a></li>
                                 <li ><a href="#menu">Menu</a></li>
-                                <li ><a href="#foods">Foods</a></li>
+                                <li ><a href="#foods">Cibi</a></li>
                                 <li ><a href="#partners">Partners</a></li>
-                                <li ><a href="#contact">Contact</a></li>
+                                <li ><a href="#contact">Contatto</a></li>
                             </ul>
                         </div>
                         <!-- #Nav Ends -->
@@ -88,8 +88,8 @@
                     <div class="caption-wrapper">
                         <div class="caption-info">              
                             <i class="fa fa-coffee fa-5x animated bounceInDown"></i>
-                            <h1 class="animated bounceInUp">Best place for delicious pizza and coffee</h1>
-                            <p class="animated bounceInLeft">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                            <h1 class="animated bounceInUp">Il posto migliore per pizza e il caffè</h1>
+                            <p class="animated bounceInLeft"></p>
                             <a href="#menu" class="explore animated bounceInDown"><i class="fa fa-angle-down  fa-3x"></i></a>
                         </div>
                     </div>
@@ -108,15 +108,11 @@
 
         <!-- Cirlce Starts -->
         <div id="menu"  class="container spacer about">
-            <h2 class="text-center wowload fadeInUp">Creative photographers of London</h2>  
+            <h2 class="text-center wowload fadeInUp">Fotografie creative di Cesena </h2>  
             <div class="row">
                 <div class="col-sm-6 wowload fadeInLeft">
-                    <h4><i class="fa fa-camera-retro"></i> Introduction </h4>
-                    <p>Creative digital agency for sleek and sophisticated solutions for mobile, websites and software designs, lead by passionate and uber progressive team that lives and breathes design. Creative digital agency for sleek and sophisticated solutions for mobile, websites and software designs.</p>
-
-
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> 
-
+                    <h4><i class="fa fa-camera-retro"></i> Introduzione </h4>
+                    <p>Broccolo Bill Ristorante nasce nel 2003 da un’idea di Salah-eddine KHATIB di coinvolgere i propri ospiti in un’esperienza di gusto inusuale fatta di divertimento, passione per i sapori puri e gli abbinamenti armonici. Un luogo dove la tradizione locale incontra altri mondi, la creatività incontra la voglia di sperimentare e stupire, la cucina incontra l’arte, dove l’equilibrio sorprende e incanta. Una formula che ha conquistato il palato della critica e ha consentito al Broccolo Bill di ricevere, già dal secondo anno di vita, la Stella Michelin.</p>
 
                 </div>
                 <div class="col-sm-6 wowload fadeInRight">
@@ -129,7 +125,7 @@
                             <div class="panel-heading" role="tab">
                                 <h4 class="panel-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        <i class="fa fa-coffee"></i> Tea & Coffee
+                                        <i class="fa fa-coffee"></i> Tè & Caffè
                                     </a>
                                 </h4>
                             </div>
@@ -146,7 +142,7 @@
                             <div class="panel-heading" role="tab">
                                 <h4 class="panel-title">
                                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <i class="fa fa-fire"></i> Firewood Pizza and Spaghetti
+                                        <i class="fa fa-fire"></i>Pizza e spaghetti
                                     </a>
                                 </h4>
                             </div>
@@ -163,7 +159,7 @@
                             <div class="panel-heading" role="tab">
                                 <h4 class="panel-title">
                                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        <i class="fa fa-beer"></i> Beers & Cocktails
+                                        <i class="fa fa-beer"></i> Birre & Cocktails
                                     </a>
                                 </h4>
                             </div>
@@ -181,7 +177,7 @@
                             <div class="panel-heading" role="tab">
                                 <h4 class="panel-title">
                                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        <i class="fa fa-spoon"></i> Fine Dinner
+                                        <i class="fa fa-spoon"></i>Bella cena
                                     </a>
                                 </h4>
                             </div>
@@ -199,7 +195,7 @@
                             <div class="panel-heading" role="tab">
                                 <h4 class="panel-title">
                                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        <i class="fa fa-birthday-cake"></i> Bakery
+                                        <i class="fa fa-birthday-cake"></i> Dolci
                                     </a>
                                 </h4>
                             </div>
@@ -233,49 +229,49 @@
                 <img src="images/portfolio/1.jpg" alt="img01"/>
                 <figcaption>
                     <h2>Cappuchino</h2>
-                    <p>Lily likes to play with crayons and pencils<br>
-                        <a href="images/portfolio/1.jpg" title="1" data-gallery>View more</a></p>            
+                    <p><br>
+                        <a href="images/portfolio/1.jpg" title="1" data-gallery>Visualizza altro</a></p>            
                 </figcaption>
             </figure>
             <figure class="effect-oscar  wowload fadeInUp">
                 <img src="images/portfolio/2.jpg" alt="img01"/>
                 <figcaption>
                     <h2>Latte</h2>
-                    <p>Lily likes to play with crayons and pencils<br>
-                        <a href="images/portfolio/2.jpg" title="1" data-gallery>View more</a></p>            
+                    <p><br>
+                        <a href="images/portfolio/2.jpg" title="1" data-gallery>Visualizza altro</a></p>            
                 </figcaption>
             </figure>
             <figure class="effect-oscar  wowload fadeInUp">
                 <img src="images/portfolio/3.jpg" alt="img01"/>
                 <figcaption>
-                    <h2>Ambience</h2>
-                    <p>Lily likes to play with crayons and pencils<br>
-                        <a href="images/portfolio/3.jpg" title="1" data-gallery>View more</a></p>            
+                    <h2>Atmosfera</h2>
+                    <p><br>
+                        <a href="images/portfolio/3.jpg" title="1" data-gallery>Visualizza altro</a></p>            
                 </figcaption>
             </figure>
             <figure class="effect-oscar  wowload fadeInUp">
                 <img src="images/portfolio/4.jpg" alt="img01"/>
                 <figcaption>
-                    <h2>Fruits</h2>
-                    <p>Lily likes to play with crayons and pencils<br>
-                        <a href="images/portfolio/4.jpg" title="1" data-gallery>View more</a></p>            
+                    <h2>Frutta</h2>
+                    <p>Visualizza altro<br>
+                        <a href="images/portfolio/4.jpg" title="1" data-gallery>Visualizza altro</a></p>            
                 </figcaption>
             </figure>
 
             <figure class="effect-oscar  wowload fadeInUp">
                 <img src="images/portfolio/5.jpg" alt="img01"/>
                 <figcaption>
-                    <h2>Breakfast</h2>
-                    <p>Lily likes to play with crayons and pencils<br>
-                        <a href="images/portfolio/5.jpg" title="1" data-gallery>View more</a></p>            
+                    <h2>Colazione</h2>
+                    <p><br>
+                        <a href="images/portfolio/5.jpg" title="1" data-gallery>Visualizza altro</a></p>            
                 </figcaption>
             </figure>
             <figure class="effect-oscar  wowload fadeInUp">
                 <img src="images/portfolio/6.jpg" alt="img01"/>
                 <figcaption>
-                    <h2>Kitchen</h2>
-                    <p>Lily likes to play with crayons and pencils<br>
-                        <a href="images/portfolio/6.jpg" title="1" data-gallery>View more</a></p>            
+                    <h2>Cucina</h2>
+                    <p><br>
+                        <a href="images/portfolio/6.jpg" title="1" data-gallery>Visualizza altro</a></p>            
                 </figcaption>
             </figure>
 
@@ -288,7 +284,7 @@
 
 
         <div id="partners" class="container spacer ">
-            <h2 class="text-center  wowload fadeInUp">Some of our happy customers</h2>
+            <h2 class="text-center  wowload fadeInUp">Alcuni dei nostri clienti Soddisfatti</h2>
             <div class="clearfix">    
                 <div class="col-sm-6 col-sm-offset-3">
 
@@ -298,22 +294,22 @@
                             <div class="item active animated bounceInRight row">
                                 <div class="animated slideInLeft col-xs-2"><img alt="portfolio" src="images/team/1.jpg" width="100" class="img-circle img-responsive"></div>
                                 <div  class="col-xs-10">
-                                    <p> I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. </p>      
-                                    <span>Angel Smith - <b>eshop Canada</b></span>
+                                    <p> Devo spiegare a voi come tutta questa idea sbagliata di denunciare piacere e lodando il dolore è nato e vi darò un resoconto completo del sistema, ed esporre gli insegnamenti reali del grande esploratore della verità, il capomastro della felicità umana . </p>      
+                                    <span>Jara - <b>Savignano</b></span>
                                 </div>
                             </div>
                             <div class="item  animated bounceInRight row">
                                 <div class="animated slideInLeft col-xs-2"><img alt="portfolio" src="images/team/2.jpg" width="100" class="img-circle img-responsive"></div>
                                 <div  class="col-xs-10">
-                                    <p>No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.</p>
-                                    <span>John Partic - <b>Crazy Pixel</b></span>
+                                    <p>Nessuno rifiuta, non piace, o evita piacere stesso, perché è piacere, ma perché coloro che non sanno come perseguire piacere razionalmente incontrare conseguenze che sono estremamente dolorose.</p>
+                                    <span>D.Lenorado - <b>Ravenna</b></span>
                                 </div>
                             </div>
                             <div class="item  animated bounceInRight row">
                                 <div class="animated slideInLeft  col-xs-2"><img alt="portfolio" src="images/team/3.jpg" width="100" class="img-circle img-responsive"></div>
                                 <div  class="col-xs-10">
-                                    <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue.</p>
-                                    <span>Harris David - <b>Jet London</b></span>
+                                    <p>D'altra parte, denunciamo con giusta indignazione e antipatia uomini che sono così ingannato e demoralizzato dal fascino del piacere del momento, così accecati dal desiderio, che non possono prevedere il dolore e problemi che sono legati a derivarne.</p>
+                                    <span>Alessandra - <b>Cesena</b></span>
                                 </div>
                             </div>
                         </div>
@@ -420,7 +416,7 @@
         <div id="contact" class="spacer">
             <!--Contact Starts-->
             <div class="container contactform center">
-                <h2 class="text-center  wowload fadeInUp">Riservazione</h2>
+                <h2 class="text-center  wowload fadeInUp">Prenotazioni</h2>
                 <div class="row wowload fadeInLeftBig">      
                     <div class="col-sm-6 col-sm-offset-3 col-xs-12">      
                         <input type="text" placeholder="Nome">
@@ -443,7 +439,7 @@
         <!-- Footer Starts -->
         <div class="footer text-center spacer">
             <p class="wowload flipInX"><a href="#"><i class="fa fa-facebook fa-2x"></i></a> <a href="#"><i class="fa fa-instagram fa-2x"></i></a> <a href="#"><i class="fa fa-twitter fa-2x"></i></a> <a href="#"><i class="fa fa-flickr fa-2x"></i></a> </p>
-            Copyright 2016 Ristorante Broccolo Bill. Tutti i diritti riservati.
+            Copyright 2016  Broccolo Bill Ristorante. Tutti i diritti riservati.
         </div>
         <!-- # Footer Ends -->
         <a href="#home" class="gototop "><i class="fa fa-angle-up  fa-3x"></i></a>
