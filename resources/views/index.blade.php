@@ -334,8 +334,8 @@
 
 
             <!-- team -->
-            <h3 class="text-center  wowload fadeInUp">Our Chefs</h3>
-            <p class="text-center  wowload fadeInLeft">Our chefs that is making everything possible</p>
+            <h3 class="text-center  wowload fadeInUp">I Nostri Chefs</h3>
+            <p class="text-center  wowload fadeInLeft">I nostri chef che sta facendo tutto il possibile</p>
             <div class="row grid team  wowload fadeInUpBig">	
                 <div class=" col-sm-3 col-xs-6">
                     <figure class="effect-chico">
@@ -388,7 +388,7 @@
 
 
         <!-- About Starts -->
-        <div class="highlight-info">
+        <!--div class="highlight-info">
             <div class="overlay spacer">
                 <div class="container">
                     <div class="row text-center  wowload fadeInDownBig">
@@ -407,7 +407,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div-->
         <!-- About Ends -->
 
 
@@ -420,13 +420,13 @@
         <div id="contact" class="spacer">
             <!--Contact Starts-->
             <div class="container contactform center">
-                <h2 class="text-center  wowload fadeInUp">Reservation</h2>
+                <h2 class="text-center  wowload fadeInUp">Riservazione</h2>
                 <div class="row wowload fadeInLeftBig">      
                     <div class="col-sm-6 col-sm-offset-3 col-xs-12">      
-                        <input type="text" placeholder="Name">
-                        <input type="text" placeholder="Company">
-                        <textarea rows="5" placeholder="Message"></textarea>
-                        <button class="btn btn-primary"><i class="fa fa-paper-plane"></i> Send</button>
+                        <input type="text" placeholder="Nome">
+                        <input type="text" placeholder="Azienda">
+                        <textarea rows="5" placeholder="Messaggio"></textarea>
+                        <button class="btn btn-primary"><i class="fa fa-paper-plane"></i> Invia</button>
                     </div>
                 </div>
 
@@ -443,7 +443,7 @@
         <!-- Footer Starts -->
         <div class="footer text-center spacer">
             <p class="wowload flipInX"><a href="#"><i class="fa fa-facebook fa-2x"></i></a> <a href="#"><i class="fa fa-instagram fa-2x"></i></a> <a href="#"><i class="fa fa-twitter fa-2x"></i></a> <a href="#"><i class="fa fa-flickr fa-2x"></i></a> </p>
-            Copyright 2014 Cyrus Creative Studio. All rights reserved.
+            Copyright 2016 Ristorante Broccolo Bill. Tutti i diritti riservati.
         </div>
         <!-- # Footer Ends -->
         <a href="#home" class="gototop "><i class="fa fa-angle-up  fa-3x"></i></a>
